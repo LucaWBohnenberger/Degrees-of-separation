@@ -66,7 +66,6 @@ While completing this project, I gained insights into:
 - 🔄 **Breadth-First Search (BFS)**: Implementing BFS to compute the shortest path in a graph.  
 - 📂 **Data Loading and Manipulation**: Extracting and organizing relational data from CSV files.  
 - 🛠️ **Problem Decomposition**: Structuring complex problems into smaller, manageable components.  
-- 🖥️ **Command-Line Interactions**: Creating user-friendly CLI applications for interacting with data.
 
 ---
 
