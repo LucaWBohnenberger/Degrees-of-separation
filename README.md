@@ -82,3 +82,8 @@ While completing this project, I gained insights into:
 3. ▶️ Run the program:
    ```bash
    python degrees.py small
+
+3.1. ▶️ Run the program (This may take some time, as there are hundreds of thousands of rows in the large dataset): 
+   ```bash
+   python degrees.py large
+
